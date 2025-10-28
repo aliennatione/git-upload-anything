@@ -1,1 +1,0 @@
-Hello WorldThis is a sample project to test git-upload-anything.
