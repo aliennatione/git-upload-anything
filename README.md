@@ -32,6 +32,8 @@ Per eseguire `git-upload-anything`, sono necessarie le seguenti dipendenze:
 Lo script è stato testato con successo su:
 *   Termux
 *   Ubuntu/Debian
+  
+todo:
 *   Arch
 *   macOS
 
@@ -102,8 +104,7 @@ git-upload-anything/
 ├── install.sh
 ├── .gitignore
 ├── examples/
-│   └── sample-project/
-│       └── main.txt
+│   └── sample-project.txt
 └── docs/
     └── usage.md
 ```
